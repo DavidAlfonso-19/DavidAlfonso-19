@@ -49,8 +49,3 @@ Soy un **junior data analyst** y futuro **ingeniero en sistemas computacionales*
 ---
 
 Gracias por visitar mi perfil 🙌 ¡Explora mis repositorios y no dudes en contactarme!
-
----
-
-<img src="pie.png" alt = "pie" width = "100%"/>
-
