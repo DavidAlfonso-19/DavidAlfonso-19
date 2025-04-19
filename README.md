@@ -43,7 +43,7 @@ Soy un **junior data analyst** y futuro **ingeniero en sistemas computacionales*
 
 ### 🔗 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davidalfonsotorres)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davidalfonsotorres/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidalfonso565@gmail.com)
 
 ---
