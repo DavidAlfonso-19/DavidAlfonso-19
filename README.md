@@ -1,5 +1,5 @@
 <!-- Banner superior -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=200&section=header&text=¡Hola,%20soy%20un%20Analista%20de%20Datos!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="Banner.png" alt = "Banner de presentación" width = "100%"/>
 
 <!-- Presentación breve -->
 ### 👋 ¡Bienvenido/a a mi GitHub!
@@ -52,5 +52,5 @@ Gracias por visitar mi perfil 🙌 ¡Explora mis repositorios y no dudes en cont
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E76A8&height=120&section=footer"/>
+<img src="pie.png" alt = "pie" width = "100%"/>
 
