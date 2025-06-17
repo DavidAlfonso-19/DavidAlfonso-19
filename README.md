@@ -4,7 +4,7 @@
 <!-- Presentación breve -->
 ### 👋 ¡Bienvenido/a a mi GitHub!
 
-Soy un **junior data analyst** y futuro **ingeniero en sistemas computacionales**, apasionado por descubrir insights y contar historias con datos. Me encanta explorar nuevas tecnologías y siempre estoy aprendiendo algo nuevo. Actualmente estoy en busca de mi primer experiencia profesional como data analyst y aquí comparto mis proyectos, experimentos y progresos como analista de datos.
+Soy un **Analista de datos** y futuro **ingeniero en sistemas computacionales**, apasionado por descubrir insights y contar historias con datos. Me encanta explorar nuevas tecnologías y siempre estoy aprendiendo algo nuevo. Actualmente estoy en busca de mi primer experiencia profesional como data analyst y aquí comparto mis proyectos, experimentos y progresos como analista de datos.
 
 ---
 
@@ -15,7 +15,6 @@ Soy un **junior data analyst** y futuro **ingeniero en sistemas computacionales*
 <!-- Lenguajes -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 <!-- Librerías -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -31,13 +30,13 @@ Soy un **junior data analyst** y futuro **ingeniero en sistemas computacionales*
 
 ---
 
-### 📊 Mis intereses
+### 📊 Mis habilidades
 
-- 📈 Análisis exploratorio de datos
-- 🧪 Pruebas A/B y estadísticas
+- 📈 Análisis de datos
+- 🧪 Pruebas estadísticas
 - 📊 Business Intelligence
-- 💡 Visualización de datos y dashboards
-- 🤖 Machine Learning básico
+- 💡 Visualización de datos
+- 🤖 Programación
 
 ---
 
