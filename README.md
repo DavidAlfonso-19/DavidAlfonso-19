@@ -1,5 +1,5 @@
 <!-- Banner superior -->
-<img src="Banner.png" alt = "Banner de presentación" width = "100%"/>
+<img src="banner_.png" alt = "Banner de presentación" width = "100%"/>
 
 <!-- Presentación breve -->
 ### 👋 ¡Bienvenido/a a mi GitHub!
